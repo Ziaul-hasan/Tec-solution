@@ -34,6 +34,16 @@ html,body{
 .img-height{
     height: 200px;
 }
+/* testimonial styles */
+.fa-star{
+    font-size: 16px;
+    color: #F59E0B;
+}
+/* accordion styles */
+.acc-title{
+    font-size: 24px;
+    font-weight: bold;
+}
 
 /* responsive styles */
 /* responsive styles for tablet */
